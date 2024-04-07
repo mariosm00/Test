@@ -1,4 +1,4 @@
-const str = "Asuncion, Paraguay";
+const str = "Asuncion";
 
 const newStr = str.padStart(20, "+");
 
